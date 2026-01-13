@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "src\\com\\unitconverter"
+    ],
+    "java.project.referencedLibraries": [
+        "d:\\TomCat\\apache-tomcat-9.0.113-windows-x64\\apache-tomcat-9.0.113\\lib\\servlet-api.jar"
+    ]
+}
